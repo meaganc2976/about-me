@@ -6,10 +6,7 @@
 
 **School:** HSTAT
 
-####**Bio:**..
-**Age:** 16 ..
-**Nationality:** Irish and Italian.. 
-**Education:** Currently a student in HSTAT..
+####**Bio:**  _**Age:**_ 16 ..  _**Nationality:**_ Irish and Italian..  _**Education:**_ Currently a student in HSTAT..
 
 **Things I Enjoy:** 
 *Spending time with friends and family..
@@ -19,9 +16,9 @@
 
 
 **Favorite Colors**
-*Purple
-*Light Blue
-*Green
+_*Purple_
+_*Light Blue_
+_*Green_
 
 **Schedule:**
 1. Software Engineering
