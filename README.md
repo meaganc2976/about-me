@@ -1,10 +1,10 @@
 ##**About Me**
 ---
-**Name:** Meagan Rose Carioti
+####**Name:** Meagan Rose Carioti
 
-**Email:** meaganc2976@hstat.org
+####**Email:** meaganc2976@hstat.org
 
-**School:** HSTAT
+####**School:** HSTAT
 
 ####**Bio:**  
 
@@ -12,9 +12,11 @@ _**Age:**_ 16
 
 _**Nationality:**_ Irish and Italian
 
-_**Education:**_ Currently a student in HSTAT
+_**Education:**_ Currently a junior in HSTAT
 
-**Things I Enjoy:** 
+
+
+####**Things I Enjoy:** 
 *Spending time with friends and family
 
 
@@ -27,12 +29,12 @@ _**Education:**_ Currently a student in HSTAT
 *Watching television
 
 
-**Favorite Colors**
+####**Favorite Colors**
 _*Purple_
 _*Light Blue_
 _*Green_
 
-**Schedule:**
+####**Schedule:**
 1. Software Engineering
 2. AP U.S. History 
 3. Honors English
