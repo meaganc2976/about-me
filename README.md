@@ -6,7 +6,10 @@
 
 **School:** HSTAT
 
-**Bio:** 16 years old. Irish and Italian. Currently a student in HSTAT
+**Bio:** 
+ **Age:** 16 
+ **Nationality:** Irish and Italian
+ **Education:** Currently a student in HSTAT
 
 **Things I Enjoy:** 
 *Spending time with friends and family
