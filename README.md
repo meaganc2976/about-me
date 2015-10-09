@@ -68,6 +68,4 @@
 8. Lunch
 
 
-
-
   [Click for some puns!](http://www.punoftheday.com/)
