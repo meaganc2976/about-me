@@ -8,40 +8,39 @@
 
 #####**Bio:**  
 
-_**Age:**_ 16 
+  _**Age:**_ 16 
 
-..*_**Nationality:**_ Irish and Italian
+  _**Nationality:**_ Irish and Italian
 
-..*_**Education:**_ Currently a junior in HSTAT
+  _**Education:**_ Currently a junior in HSTAT
 
 
-*experiment
 
 #####**Things I Enjoy:** 
 
 
-..*Spending time with friends and family
+  Spending time with friends and family
 
 
-..*Reading
+  Reading
 
 
-..*Listening to music
+  Listening to music
 
 
-..*Watching television
+  Watching television
 
 
-#####**Favorite Colors**
+#####**Favorite Colors:
 
 
-.._*Purple_
+  _Purple_
 
 
-.._*Light Blue_
+  _Light Blue_
 
 
-.._*Green_
+  _Green_
 
 #####**Schedule:**
 1. Software Engineering
