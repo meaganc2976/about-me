@@ -22,6 +22,7 @@
 
 
 
+
 #####**Things I Enjoy:** 
 
 
@@ -40,6 +41,8 @@
   * Watching television
   
 
+
+
 #####**Favorite Colors:**
 
 
@@ -50,6 +53,8 @@
 
 
   * _Green_
+
+
 
 
 #####**Schedule:**
@@ -65,4 +70,4 @@
 
 
 
-[Click for some puns!](http://www.punoftheday.com/)
+  [Click for some puns!](http://www.punoftheday.com/)
