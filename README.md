@@ -1,7 +1,6 @@
 ##**About Me**
 
-
-***
+- - - - - - - - - - - -- - - - - 
 
 
 #####**Name:** Meagan Rose Carioti
@@ -41,6 +40,8 @@
   * Watching television
 
 
+
+
 #####**Favorite Colors:**
 
 
@@ -61,6 +62,8 @@
 6. Spanish
 7. Physics
 8. Lunch
+
+
 
 
 [Click for some puns!](http://www.punoftheday.com/)
