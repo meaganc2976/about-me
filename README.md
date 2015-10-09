@@ -8,14 +8,14 @@
 
 #####**Bio:**  
 
-..*_**Age:**_ 16 
+_**Age:**_ 16 
 
 ..*_**Nationality:**_ Irish and Italian
 
 ..*_**Education:**_ Currently a junior in HSTAT
 
 
-
+*experiment
 
 #####**Things I Enjoy:** 
 
