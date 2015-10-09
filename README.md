@@ -1,18 +1,18 @@
-##**About Me**
+## **About Me**
 
 - - - - - - - - - - - -- - - - - 
 
 
-#####**Name:** Meagan Rose Carioti
+##### **Name:** Meagan Rose Carioti
 
-#####**Email:** meaganc2976@hstat.org
+##### **Email:** meaganc2976@hstat.org
 
-#####**School:** HSTAT
+##### **School:** HSTAT
 
 ---
 
 
-#####**Bio:**  
+##### **Bio:**  
 
  * _**Age:**_ 16 
 
@@ -23,7 +23,7 @@
 
 
 
-#####**Things I Enjoy:** 
+##### **Things I Enjoy:** 
 
 
   * Spending time with friends and family
@@ -43,7 +43,7 @@
 
 
 
-#####**Favorite Colors:**
+##### **Favorite Colors:**
 
 
   * _Purple_
@@ -57,7 +57,7 @@
 
 
 
-#####**Schedule:**
+##### **Schedule:**
 
 1. Software Engineering
 2. AP U.S. History 
