@@ -1,14 +1,11 @@
 ##**About Me** 
 -----
----
 #####**Name:** Meagan Rose Carioti
 
 #####**Email:** meaganc2976@hstat.org
 
 #####**School:** HSTAT
-------
 ---
-
 #####**Bio:**  
 
  * _**Age:**_ 16 
