@@ -58,6 +58,7 @@
 
 
 #####**Schedule:**
+
 1. Software Engineering
 2. AP U.S. History 
 3. Honors English
@@ -66,6 +67,4 @@
 6. Spanish
 7. Physics
 8. Lunch
-
-
   [Click for some puns!](http://www.punoftheday.com/)
