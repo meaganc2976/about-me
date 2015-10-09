@@ -38,9 +38,7 @@
 
 
   * Watching television
-
-
-
+  
 
 #####**Favorite Colors:**
 
@@ -52,6 +50,7 @@
 
 
   * _Green_
+
 
 #####**Schedule:**
 1. Software Engineering
